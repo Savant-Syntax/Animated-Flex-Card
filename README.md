@@ -42,7 +42,7 @@ Here’s a breakdown of the project files:
 ---
 
 ## 📸 Preview
-![Preview](https://savant-syntax.github.io/Animated-Flex-Card/)
+![Preview of Animated Flex Cards](./asset/preview.png)
 
 ---
 
